@@ -1,10 +1,8 @@
 # Simple Gender Filter
 
-Simple deep learning model which classify gender of person in input image
-
-(Pretrained model must use aligned face)
-
-                                                       
+Simple deep learning model predict gender of given image
+(Pretrained model used aligned image)
+               
 ![](./assets/grid.png)
 
 
@@ -31,5 +29,5 @@ output = GF(input)
 ## Training
 
 ```jsx
-python train.py --data_path '{data_forder}'
+python train.py --data_path {data_forder}
 ```
