@@ -4,10 +4,10 @@ Simple deep learning model which classify gender of person in input image
 
 (Pretrained model must use aligned face)
 
-                                                          <score: 0.9987>
-![](./gender_filter/male.png)
+                                                       
+![](./assets/grid.png)
 
-                                                        <score: 5.0664e-07>
+
 
 ## How to Use
 
