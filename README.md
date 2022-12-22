@@ -6,18 +6,6 @@ Simple deep learning model predict gender of given image
 ![](./assets/grid.png)
 
 
-
-## How to Use
-
-```python
-from gender_filter import GenderFilter
-GF = GenderFilter
-output = GF(input)
-```
-
-- input : PIL image ‘RGB’color
-- output: score (Male:1, Female:0)
-
 # Self Training
 
 ## ready
