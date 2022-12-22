@@ -4,11 +4,11 @@ Simple deep learning model which classify gender of person in input image
 
 (Pretrained model must use aligned face)
 
-![female.png](Simple%20Gender%20Filter%20e648b46fe30d4291ad6254d7e61847e3/female.png)
+![gender_filter/female.png](Simple%20Gender%20Filter%20e648b46fe30d4291ad6254d7e61847e3/female.png)
 
                                                           <score: 0.9987>
 
-![male.png](Simple%20Gender%20Filter%20e648b46fe30d4291ad6254d7e61847e3/male.png)
+![gender_filter/male.png](Simple%20Gender%20Filter%20e648b46fe30d4291ad6254d7e61847e3/male.png)
 
                                                         <score: 5.0664e-07>
 
