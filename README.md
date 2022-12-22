@@ -8,7 +8,7 @@ Simple deep learning model which classify gender of person in input image
 
                                                           <score: 0.9987>
 
-![gender_filter/male.png](Simple%20Gender%20Filter%20e648b46fe30d4291ad6254d7e61847e3/male.png)
+![](./gender_filter/male.png)
 
                                                         <score: 5.0664e-07>
 
