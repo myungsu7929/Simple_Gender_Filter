@@ -1,7 +1,7 @@
 # Simple Gender Filter
 
 Simple deep learning model predict gender of given image
-(Pretrained model used aligned image)
+(Pretrained model used to align face)
                
 ![](./assets/grid.png)
 
